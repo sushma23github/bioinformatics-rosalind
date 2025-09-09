@@ -16,15 +16,15 @@ The main purpose of collaborating with AI was to accelerate learning and ensure 
    Beyond code generation, AI was used to explain underlying bioinformatics concepts such as DNA transcription, RNA translation, GC content calculation, motif finding, and parsing FASTA files using Biopython. This helped reinforce my understanding of both the **problem requirements** and the **Python implementation**, enabling me to write or adjust code independently after reviewing AI suggestions.
 
 4. **Workflow Organization:**  
-   AI provided recommendations on folder structures and project organization, which is essential for version control and reproducibility. Based on AI suggestions, I created the following structure within my Google Drive:
-ros/
-├── src/ # Python scripts for Problems 1-9
-├── data/sample/ # Input files for the scripts
-├── docs/ # Documentation including AI usage
-├── outputs/ # Outputs from running scripts
-├── notebooks/ # Colab notebooks
-├── README.md # Project overview and personal info
-└── requirements.txt # Python dependencies
+   AI provided recommendations on folder structures and project organization, which is essential for version control and reproducibility. Based on AI suggestions, I created the following structure within my Google Drive:<br>
+ros/<br>
+├── src/ # Python scripts for Problems 1-9<br>
+├── data/sample/ # Input files for the scripts<br>
+├── docs/ # Documentation including AI usage<br>
+├── outputs/ # Outputs from running scripts<br>
+├── notebooks/ # Colab notebooks<br>
+├── README.md # Project overview and personal info<br>
+└── requirements.txt # Python dependencies<br>
 
 This structure made it easier to manage files, run scripts in Colab, and push the project to GitHub in a clear and organized manner.
 
